@@ -1,1 +1,3 @@
-print 'hello kug'
+print '
+hello kug'
+print"python"
